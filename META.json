@@ -60,6 +60,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Xaerxess/Task-BeLike-XAERXESS/issues"
+      },
+      "homepage" : "https://github.com/Xaerxess/Task-BeLike-XAERXESS",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/Xaerxess/Task-BeLike-XAERXESS.git",
+         "web" : "https://github.com/Xaerxess/Task-BeLike-XAERXESS"
+      }
+   },
    "version" : "0.001"
 }
 
