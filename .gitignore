@@ -1,0 +1,7 @@
+/Task-BeLike-XAERXESS-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
