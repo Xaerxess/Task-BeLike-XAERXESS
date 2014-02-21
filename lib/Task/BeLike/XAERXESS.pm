@@ -3,7 +3,7 @@ package Task::BeLike::XAERXESS;
 use strict;
 use warnings;
 use 5.008_005;
-our $VERSION = '0.002';
+our $VERSION = '0.003';
 
 1;
 __END__
