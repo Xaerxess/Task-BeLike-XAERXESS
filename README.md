@@ -15,7 +15,8 @@ See `cpanfile` in this distribution for details.
 # CAVEATS
 
 - [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla), which has quite many dependencies, is installed in this Task and thus installation can possibly last few minutes.
-- Because [Net::SSLeay](https://metacpan.org/pod/Net::SSLeay) is installed as one of [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla) dependencies, [OpenSSL](http://www.openssl.org) sources are required. On Debian or Ubuntu, you can install them using APT via command `sudo apt-get install libssl-deb`.
+- Because [Net::SSLeay](https://metacpan.org/pod/Net::SSLeay) is installed as one of [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla) dependencies, [OpenSSL](https://metacpan.org/pod/http:#www.openssl.org) sources are required.
+On Debian or Ubuntu, you can install them using APT via command `sudo apt-get install libssl-dev`.
 
 # AUTHOR
 

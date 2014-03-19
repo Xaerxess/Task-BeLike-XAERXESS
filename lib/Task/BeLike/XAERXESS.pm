@@ -30,7 +30,8 @@ See C<cpanfile> in this distribution for details.
 
 =item * L<Dist::Zilla>, which has quite many dependencies, is installed in this Task and thus installation can possibly last few minutes.
 
-=item * Because L<Net::SSLeay> is installed as one of L<Dist::Zilla> dependencies, L<OpenSSL|http://www.openssl.org> sources are required. On Debian or Ubuntu, you can install them using APT via command C<< sudo apt-get install libssl-deb >>.
+=item * Because L<Net::SSLeay> is installed as one of L<Dist::Zilla> dependencies, L<OpenSSL|http://www.openssl.org> sources are required.
+On Debian or Ubuntu, you can install them using APT via command C<< sudo apt-get install libssl-dev >>.
 
 =back
 
