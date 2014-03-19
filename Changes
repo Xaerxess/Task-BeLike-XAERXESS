@@ -2,6 +2,8 @@ Revision history for Task-BeLike-XAERXESS
 
 {{$NEXT}}
 
+0.004  2014-03-19 17:39:54 CET
+
  - Fixed typo in libssl-dev package name
  - changed List::MoreUtils to List::AllUtils
  - added JSON and YAML (recommend XS backends)
