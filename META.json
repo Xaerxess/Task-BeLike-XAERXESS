@@ -63,6 +63,7 @@
             "List::AllUtils" : "0",
             "List::Gen" : "0",
             "Minilla" : "0",
+            "Moo" : "1",
             "Plack" : "1",
             "Smart::Match" : "0",
             "Try::Tiny" : "0",

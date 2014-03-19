@@ -11,6 +11,7 @@ requires 'JSON';
 requires 'List::AllUtils';
 requires 'List::Gen';
 requires 'Minilla';
+requires 'Moo', '>= 1';
 requires 'Plack', '>= 1';
 requires 'Smart::Match';
 requires 'Try::Tiny';
