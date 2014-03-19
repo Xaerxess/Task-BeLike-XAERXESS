@@ -48,6 +48,10 @@
          }
       },
       "runtime" : {
+         "recommends" : {
+            "JSON::XS" : "< 3",
+            "YAML::XS" : "0"
+         },
          "requires" : {
             "Code::TidyAll" : "0",
             "Const::Fast" : "0",
@@ -55,12 +59,14 @@
             "Dancer2" : "0",
             "Dist::Milla" : "0",
             "Dist::Zilla" : "5",
+            "JSON" : "0",
             "List::AllUtils" : "0",
             "List::Gen" : "0",
             "Minilla" : "0",
             "Plack" : "1",
             "Smart::Match" : "0",
             "Try::Tiny" : "0",
+            "YAML" : "0",
             "experimental" : "0",
             "perl" : "5.008005"
          }
